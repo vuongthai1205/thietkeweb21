@@ -30691,8 +30691,8 @@
                                             type: "doughnut",
                                             data: {
                                                 labels: [
-                                                    "90% Tokens will be pooled or burned ",
-                                                    "10% For CEX & Marketing via multi-sig",
+                                                    "98% Tokens will be pooled or burned ",
+                                                    "2% For CEX & Marketing via multi-sig",
                                                 ],
                                                 datasets: [
                                                     {
@@ -30747,17 +30747,12 @@
                                             (0, Me.jsx)("p", {
                                                 className: "tokenomics-text",
                                                 children:
-                                                    "9% of supply will be used for marketing and cex listing",
+                                                    "2% of supply will be used for marketing",
                                             }),
                                             (0, Me.jsx)("p", {
                                                 className: "tokenomics-text",
                                                 children:
-                                                    "91% of supply will be pooled or burned",
-                                            }),
-                                            (0, Me.jsx)("p", {
-                                                className: "tokenomics-text",
-                                                children:
-                                                    "2% burning taxes that will turn off automatically after 37 days from deployment",
+                                                    "98% of supply will be pooled or burned",
                                             }),
                                             (0, Me.jsx)("p", {
                                                 className: "tokenomics-text",
@@ -30852,13 +30847,9 @@
                                     className: "bodo",
                                     children: [
                                         (0, Me.jsx)(Ee, {}),
-                                        (0, Me.jsx)(bs, {}),
                                         (0, Me.jsx)(De, {}),
                                         (0, Me.jsx)(bs, {}),
                                         (0, Me.jsx)(ys, {}),
-                                        (0, Me.jsx)(bs, {}),
-                                        (0, Me.jsx)(ks, {}),
-                                        (0, Me.jsx)(bs, {}),
                                     ],
                                 }),
                                 (0, Me.jsx)(xs, {}),
