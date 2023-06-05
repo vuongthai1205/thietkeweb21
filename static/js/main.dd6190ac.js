@@ -12034,14 +12034,7 @@
                                 }),
                                 (0, Me.jsxs)("div", {
                                     className: "backgrounds",
-                                    children: [
-                                        "   ",
-                                        (0, Me.jsx)("img", {
-                                            src: Oe,
-                                            alt: "jail",
-                                        }),
-                                        "  ",
-                                    ],
+                                    
                                 }),
                             ],
                         }),
@@ -30796,30 +30789,18 @@
                                     className: "social-icons",
                                     children: [
                                         (0, Me.jsx)("a", {
-                                            href: "https://twitter.com/JailPepe",
+                                            href: "https://twitter.com/JailCZtoken",
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             children: (0, Me.jsx)(v, {}),
                                         }),
                                         (0, Me.jsx)("a", {
-                                            href: "https://t.me/jail55pepe",
+                                            href: "https://t.me/JailCZPortal",
                                             target: "_blank",
                                             rel: "noopener noreferrer",
                                             children: (0, Me.jsx)(p, {}),
                                         }),
                                     ],
-                                }),
-                                (0, Me.jsx)("div", {
-                                    className: "email",
-                                    style: { paddingTop: "5px" },
-                                    children: (0, Me.jsx)("a", {
-                                        href: "mailto:info@jailpepe.com",
-                                        style: {
-                                            textDecoration: "none",
-                                            color: "white",
-                                        },
-                                        children: "info@jailpepe.com",
-                                    }),
                                 }),
                             ],
                         }),

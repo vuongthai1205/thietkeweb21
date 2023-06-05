@@ -172,6 +172,7 @@ button:hover {
     height: 120vh;
     overflow: hidden;
     padding: 40px 20px;
+    margin-top: 150px;
 }
 .about-content .backgrounds {
     left: 0;
@@ -189,7 +190,7 @@ button:hover {
     font-size: 5rem;
     font-weight: 700;
     margin-bottom: 20px;
-    margin-left: 820px;
+    text-align: center;
     padding-bottom: 30px;
 }
 .about-content {
