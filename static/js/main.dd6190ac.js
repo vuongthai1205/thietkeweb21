@@ -12031,7 +12031,7 @@
                                 (0, Me.jsx)("p", {
                                     children:
                                         "The SEC has proceeded to sue CZ making allegations against Binance and are demanding a jury trial . The next few days or even months  will be very interesting . This news is also expected to cause further damage to the price of $BNB as we are expecting more billions to be wiped off the market which is already down to $280 at that time . ChangPeng Zhao will be arrested and Binance will be gone.",
-                                })
+                                }),
                                 (0, Me.jsxs)("div", {
                                     className: "backgrounds",
                                     children: [
