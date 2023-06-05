@@ -11923,11 +11923,7 @@
                                 (0, Me.jsx)(ke, {
                                     to: "/",
                                     className: "navbar-logo",
-                                    children: (0, Me.jsx)("img", {
-                                        src: Se,
-                                        alt: "logo",
-                                        className: "logo",
-                                    }),
+                                    
                                 }),
                                 (0, Me.jsx)("div", {
                                     className: "menu-icon",
@@ -12000,16 +11996,16 @@
                                 }),
                                 (0, Me.jsx)("p", {
                                     children:
-                                        "The future of the meme economy is here, and it's barking up a storm.",
+                                        "THIS PERSON NEEDS TO GO TO JAIL FOR WHAT HE HAVE DONE TO MARKET",
                                 }),
                                 (0, Me.jsx)("p", {
                                     children:
-                                        "BSC ADDRESS: 0xa950A5A7aD6536C35B11a38D24Cc0102F610Ea6d",
+                                        "ETH ADDRESS:",
                                 }),
                                 (0, Me.jsx)("div", {
                                     className: "buttons",
                                     children: (0, Me.jsx)(ke, {
-                                        to: "https://www.pinksale.finance/launchpad/0xd30CE34A3dFF7331c15Bc28eA8bEd4b8365039CB?chain=BSC",
+                                        to: "https://app.uniswap.org/#/swap",
                                         children: (0, Me.jsx)("button", {
                                             children: "Buy Now",
                                         }),
@@ -12034,20 +12030,8 @@
                             children: [
                                 (0, Me.jsx)("p", {
                                     children:
-                                        "Jail Pepe is a fun and exciting meme token inspired by the infamous internet meme, Pepe the Frog. We're a group of crypto enthusiasts who are passionate about creating a community-driven project that's focused on bringing humor and entertainment to the world of cryptocurrencies.",
-                                }),
-                                (0, Me.jsx)("p", {
-                                    children:
-                                        "Our liquidity pool is locked for a forever, ensuring stable and secure environment for our investors.",
-                                }),
-                                (0, Me.jsx)("p", {
-                                    children:
-                                        "At the heart of our project is a strong community of supporters and investors who believe in our vision. We are proud to partner with other meme coins and crypto projects that share our values, and we are always looking for new opportunities to collaborate and grow.",
-                                }),
-                                (0, Me.jsx)("p", {
-                                    children:
-                                        "Our roadmap includes plans to launch on multiple exchanges, establish partnerships with major brands and influencers, and expand our platform to include a range of fun and engaging features. We are excited to see where the future takes us, and we invite you to join us on this journey!",
-                                }),
+                                        "The SEC has proceeded to sue CZ making allegations against Binance and are demanding a jury trial . The next few days or even months  will be very interesting . This news is also expected to cause further damage to the price of $BNB as we are expecting more billions to be wiped off the market which is already down to $280 at that time . ChangPeng Zhao will be arrested and Binance will be gone.",
+                                })
                                 (0, Me.jsxs)("div", {
                                     className: "backgrounds",
                                     children: [
